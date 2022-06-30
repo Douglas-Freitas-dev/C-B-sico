@@ -1,0 +1,11 @@
+C:\Users\Douglas Freitas\Documents\Udemy\C# Iniciante\01 - Seção\Solucao\WinForms\bin\Debug\WinForms.exe.config
+C:\Users\Douglas Freitas\Documents\Udemy\C# Iniciante\01 - Seção\Solucao\WinForms\bin\Debug\WinForms.exe
+C:\Users\Douglas Freitas\Documents\Udemy\C# Iniciante\01 - Seção\Solucao\WinForms\bin\Debug\WinForms.pdb
+C:\Users\Douglas Freitas\Documents\Udemy\C# Iniciante\01 - Seção\Solucao\WinForms\obj\Debug\02_WinForms.csproj.AssemblyReference.cache
+C:\Users\Douglas Freitas\Documents\Udemy\C# Iniciante\01 - Seção\Solucao\WinForms\obj\Debug\02_WinForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Douglas Freitas\Documents\Udemy\C# Iniciante\01 - Seção\Solucao\WinForms\obj\Debug\WinForms.Properties.Resources.resources
+C:\Users\Douglas Freitas\Documents\Udemy\C# Iniciante\01 - Seção\Solucao\WinForms\obj\Debug\02_WinForms.csproj.GenerateResource.cache
+C:\Users\Douglas Freitas\Documents\Udemy\C# Iniciante\01 - Seção\Solucao\WinForms\obj\Debug\02_WinForms.csproj.CoreCompileInputs.cache
+C:\Users\Douglas Freitas\Documents\Udemy\C# Iniciante\01 - Seção\Solucao\WinForms\obj\Debug\WinForms.exe
+C:\Users\Douglas Freitas\Documents\Udemy\C# Iniciante\01 - Seção\Solucao\WinForms\obj\Debug\WinForms.pdb
+C:\Users\Douglas Freitas\Documents\Udemy\C# Iniciante\01 - Seção\Solucao\WinForms\obj\Debug\WinForms.Form1.resources
